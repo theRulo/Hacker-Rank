@@ -1,4 +1,4 @@
-##### Weather Observation Station 13
+## Weather Observation Station 13
 
 Url: [weather-observation-station-13](https://www.hackerrank.com/challenges/weather-observation-station-13/ "weather-observation-station-13")
 
